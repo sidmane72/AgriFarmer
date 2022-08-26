@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "458011875861",
+    "firebase_url": "https://agrifarmer-459d2-default-rtdb.firebaseio.com",
+    "project_id": "agrifarmer-459d2",
+    "storage_bucket": "agrifarmer-459d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458011875861:android:a283375cb489a52a594c1c",
+        "android_client_info": {
+          "package_name": "com.example.agrifarmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458011875861-uld3l6aqvfk4v3k0ka7r37ok5qfccchv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe60iK_3lR2mH1yOmOsMxkFJmF5KSyuoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458011875861-uld3l6aqvfk4v3k0ka7r37ok5qfccchv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
